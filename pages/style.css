@@ -1,0 +1,48 @@
+.tengah{
+	text-align: center;
+}
+
+input[type=text] {
+	width: 50%;
+    padding: 12px 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+input[type=number] {
+	width: 50%;
+    padding: 12px 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 8px;
+}
+
+
+input[type=submit] {
+	width: 30%;
+    padding: 12px 12px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+}
+
+input[type=submit]:hover{
+	background-color: #7aa7ef;
+	color: white;
+}
+
+
+.all{
+	text-align: center;
+}
+
+.font{
+	font-size: 30px;
+}
+
+.link:hover{
+	text-decoration: none;
+}
